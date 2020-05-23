@@ -1,0 +1,12 @@
+/Users/duc/Documents/Coding/MethodChaining/bin/Debug/netcoreapp3.1/MethodChaining.deps.json
+/Users/duc/Documents/Coding/MethodChaining/bin/Debug/netcoreapp3.1/MethodChaining.runtimeconfig.json
+/Users/duc/Documents/Coding/MethodChaining/bin/Debug/netcoreapp3.1/MethodChaining.runtimeconfig.dev.json
+/Users/duc/Documents/Coding/MethodChaining/bin/Debug/netcoreapp3.1/MethodChaining.dll
+/Users/duc/Documents/Coding/MethodChaining/bin/Debug/netcoreapp3.1/MethodChaining.pdb
+/Users/duc/Documents/Coding/MethodChaining/obj/Debug/netcoreapp3.1/MethodChaining.csprojAssemblyReference.cache
+/Users/duc/Documents/Coding/MethodChaining/obj/Debug/netcoreapp3.1/MethodChaining.csproj.CoreCompileInputs.cache
+/Users/duc/Documents/Coding/MethodChaining/obj/Debug/netcoreapp3.1/MethodChaining.AssemblyInfoInputs.cache
+/Users/duc/Documents/Coding/MethodChaining/obj/Debug/netcoreapp3.1/MethodChaining.AssemblyInfo.cs
+/Users/duc/Documents/Coding/MethodChaining/obj/Debug/netcoreapp3.1/MethodChaining.dll
+/Users/duc/Documents/Coding/MethodChaining/obj/Debug/netcoreapp3.1/MethodChaining.pdb
+/Users/duc/Documents/Coding/MethodChaining/obj/Debug/netcoreapp3.1/MethodChaining.genruntimeconfig.cache
